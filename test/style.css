@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.google-page {
+    margin-top: 20rem;
+    text-align: center;
+}
+input {
+    border: 2px solid red;
+    height: 25px;
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+}
+button {
+    background-color: green;
+    height: 39px;
+    width: 120px;
+}
+
